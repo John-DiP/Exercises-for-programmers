@@ -1,5 +1,27 @@
-Solutions
+**Python**
 
-Plan to do these exercises in languages such as C, C++, Python, Javascript, and Java
+- In progress
 
-Probably won't do Ch.9
+**C**
+
+- TODO
+
+**C++**
+
+- TODO
+
+**Javascript**
+
+- TODO
+
+**Java**
+
+- TODO
+
+**Go**
+
+- TODO
+
+**C#**
+
+- TODO
